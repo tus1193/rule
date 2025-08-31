@@ -1,6 +1,17 @@
 # 直连补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,baidu.com
-
+# PT
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,carpt.net
 

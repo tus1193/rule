@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hhan.club
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,carpt.net
+DOMAIN-KEYWORD,m-team
 
 # 端口直连(源端口(src port)目标端口(dst port))
 # DST-PORT,26881

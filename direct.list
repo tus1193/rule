@@ -17,5 +17,5 @@ DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,carpt.net
 
 # 端口匹配(源端口(src port),目标端口(dst port))
-# DST-PORT,26881
 SRC-PORT,26881
+# DST-PORT,26881

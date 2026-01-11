@@ -1,5 +1,9 @@
 # 直连补充列表
 
+#Lucky解析
+DOMAIN-SUFFIX,66666.host
+DOMAIN-SUFFIX,666666.host
+
 # 域名后缀匹配
 # PT
 DOMAIN-KEYWORD,m-team

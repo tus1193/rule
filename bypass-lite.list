@@ -1,0 +1,21 @@
+# PT 直连补充列表
+
+# PT 站点
+DOMAIN-KEYWORD,m-team
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,hdhome.org
+DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,nicept.net
+DOMAIN-SUFFIX,hddolby.com
+DOMAIN-SUFFIX,pthome.net
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,keepfrds.com
+DOMAIN-SUFFIX,carpt.net
+
+# 端口匹配：SRC-PORT=源端口，DST-PORT=目标端口（PT 通常使用 DST-PORT）
+
+# PT 监听端口
+DST-PORT,26881
